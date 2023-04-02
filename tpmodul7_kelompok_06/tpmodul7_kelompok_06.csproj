@@ -75,6 +75,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataMahasiswa1302213120.cs" />
+    <Compile Include="KuliahMahasiswa1302213120.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -82,6 +83,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
     <None Include="tp7_1_1302213120.json" />
+    <None Include="tp7_2_1302213120.json" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
