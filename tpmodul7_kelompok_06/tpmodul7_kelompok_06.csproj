@@ -74,16 +74,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataMahasiswa1302213120.cs" />
-    <Compile Include="KuliahMahasiswa1302213120.cs" />
+    <Compile Include="DataMahasiswa1302210055.cs" />
+    <Compile Include="KuliahMahasiswa1302210055.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-    <None Include="tp7_1_1302213120.json" />
-    <None Include="tp7_2_1302213120.json" />
+    <None Include="tp7_1_1302210055.json" />
+    <None Include="tp7_2_1302210055.json" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

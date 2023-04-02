@@ -8,14 +8,14 @@ using System.IO;
 
 namespace tpmodul7_kelompok_06
 {
-    public class DataMahasiswa1302213120
+    public class DataMahasiswa1302210055
     {
         public Nama nama { get; set; }
         public int nim { get; set; }
         public String fakultas { get; set; }
 
 
-        public DataMahasiswa1302213120(Nama nama, int nim, String fakultas)
+        public DataMahasiswa1302210055(Nama nama, int nim, String fakultas)
         {
             this.nama = nama;
             this.nim = nim;
@@ -23,11 +23,11 @@ namespace tpmodul7_kelompok_06
         }
         public static void ReadJSON()
         {
-            String jsonString = File.ReadAllText("C:\\Users\\walid\\source\\repos\\tpmodul7_kelompok_06\\tpmodul7_kelompok_06\\tp7_1_1302213120.json");
+            String jsonString = File.ReadAllText("D:\\Praktek Smstr 4\\KPL\\tpmodul7_kelompok_06\\tpmodul7_kelompok_06\\tp7_1_1302210055.json");
 
-            DataMahasiswa1302213120 mahasiswa = JsonSerializer.Deserialize<DataMahasiswa1302213120>(jsonString);
+            DataMahasiswa1302210055 mahasiswa = JsonSerializer.Deserialize<DataMahasiswa1302210055>(jsonString);
 
-            Console.WriteLine("Nama " + mahasiswa.nama.depan + " " + mahasiswa.nama.belakang + " dengan nim " + mahasiswa.nim + " dari fakultas " + mahasiswa.fakultas);
+            Console.WriteLine("Nama " + mahasiswa.nama.depan + " " + mahasiswa.nama.belakang + " dengan NIM " + mahasiswa.nim + " dari Fakultas " + mahasiswa.fakultas);
         }
     }
     public class Nama

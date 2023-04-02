@@ -6,22 +6,22 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace tpmodul7_kelompok_2
+namespace tpmodul7_kelompok_06
 {
-    internal class KuliahMahasiswa1302213120
+    internal class KuliahMahasiswa1302210055
     {
         public List<courses> courses { get; set; }
 
-        public KuliahMahasiswa1302213120(List<courses> courses)
+        public KuliahMahasiswa1302210055(List<courses> courses)
         {
             this.courses = courses;
         }
 
         public static void ReadJSON()
         {
-            String jsonString = File.ReadAllText("C:\\Users\\walid\\source\\repos\\tpmodul7_kelompok_06\\tpmodul7_kelompok_06\\tp7_2_1302213120.json");
+            String jsonString = File.ReadAllText("D:\\Praktek Smstr 4\\KPL\\tpmodul7_kelompok_06\\tpmodul7_kelompok_06\\tp7_2_1302210055.json");
 
-            KuliahMahasiswa1302213120 matkul = JsonSerializer.Deserialize<KuliahMahasiswa1302213120>(jsonString);
+            KuliahMahasiswa1302210055 matkul = JsonSerializer.Deserialize<KuliahMahasiswa1302210055>(jsonString);
 
             for (int i = 0; i < matkul.courses.Count; i++)
             {
