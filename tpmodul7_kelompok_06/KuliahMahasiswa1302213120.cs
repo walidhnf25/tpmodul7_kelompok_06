@@ -6,7 +6,7 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace tpmodul7_kelompok_2
+namespace tpmodul7_kelompok_06
 {
     internal class KuliahMahasiswa1302213120
     {
