@@ -23,7 +23,7 @@ namespace tpmodul7_kelompok_06
         }
         public static void ReadJSON()
         {
-            String jsonString = File.ReadAllText("C:\\Users\\walid\\source\\repos\\tpmodul7_kelompok_06\\tpmodul7_kelompok_06\\tp7_1_1302213120.json");
+            String jsonString = File.ReadAllText("D:\\KULIAH 4\\KPL\\TP\\TPmodul7_1302210049\\tpmodul7_kelompok_06\\tpmodul7_kelompok_06\\tp7_1_1302213120.json");
 
             DataMahasiswa1302213120 mahasiswa = JsonSerializer.Deserialize<DataMahasiswa1302213120>(jsonString);
 

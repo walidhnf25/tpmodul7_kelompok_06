@@ -19,7 +19,7 @@ namespace tpmodul7_kelompok_2
 
         public static void ReadJSON()
         {
-            String jsonString = File.ReadAllText("C:\\Users\\walid\\source\\repos\\tpmodul7_kelompok_06\\tpmodul7_kelompok_06\\tp7_2_1302213120.json");
+            String jsonString = File.ReadAllText("D:\\KULIAH 4\\KPL\\TP\\TPmodul7_1302210049\\tpmodul7_kelompok_06\\tpmodul7_kelompok_06\\tp7_2_1302213120.json");
 
             KuliahMahasiswa1302213120 matkul = JsonSerializer.Deserialize<KuliahMahasiswa1302213120>(jsonString);
 
