@@ -4,8 +4,8 @@ public class Program
 {
     public static void Main()
     {
-        DataMahasiswa1302213120.ReadJSON();
+        DataMahasiswa1302210055.ReadJSON();
 
-        tpmodul7_kelompok_2.KuliahMahasiswa1302213120.ReadJSON();
+        tpmodul7_kelompok_06.KuliahMahasiswa1302210055.ReadJSON();
     }
 }

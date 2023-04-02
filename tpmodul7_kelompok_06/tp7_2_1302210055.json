@@ -2,11 +2,11 @@
   "courses": [
     {
       "code": "CRI2C4",
-      "name": "Konstruksi Perangkat Lunak"
+      "name": "Konstruksi Perangkat Lunak (KPL)"
     },
     {
       "code": "CRJ2A3",
-      "name": "Penjaminan Mutu Perangkat Lunat"
+      "name": "Penjaminan Mutu Perangkat Lunak (SQA)"
     },
     {
       "code": "CRI2E4",
@@ -26,7 +26,7 @@
     },
     {
       "code": "CII3B4",
-      "name": "Pemprograman Berorientasi Objek"
+      "name": "Pemprograman Berorientasi Objek (PBO)"
     }
   ]
 }

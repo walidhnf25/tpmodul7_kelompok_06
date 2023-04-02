@@ -26,3 +26,32 @@ C:\Users\walid\source\repos\tpmodul7_kelompok_06\tpmodul7_kelompok_06\obj\Debug\
 C:\Users\walid\source\repos\tpmodul7_kelompok_06\tpmodul7_kelompok_06\obj\Debug\tpmodul7_kelompok_06.csproj.CopyComplete
 C:\Users\walid\source\repos\tpmodul7_kelompok_06\tpmodul7_kelompok_06\obj\Debug\tpmodul7_kelompok_06.exe
 C:\Users\walid\source\repos\tpmodul7_kelompok_06\tpmodul7_kelompok_06\obj\Debug\tpmodul7_kelompok_06.pdb
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\tpmodul7_kelompok_06.exe.config
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\tpmodul7_kelompok_06.exe
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\tpmodul7_kelompok_06.pdb
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\Newtonsoft.Json.dll
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.Buffers.dll
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.Memory.dll
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.Numerics.Vectors.dll
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.Text.Encodings.Web.dll
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.Text.Json.dll
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.ValueTuple.dll
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\Newtonsoft.Json.xml
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.Buffers.xml
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.Memory.xml
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.Numerics.Vectors.xml
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.Text.Encodings.Web.xml
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.Text.Json.xml
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\bin\Debug\System.ValueTuple.xml
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\obj\Debug\tpmodul7_kelompok_06.csproj.AssemblyReference.cache
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\obj\Debug\tpmodul7_kelompok_06.csproj.SuggestedBindingRedirects.cache
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\obj\Debug\tpmodul7_kelompok_06.csproj.CoreCompileInputs.cache
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\obj\Debug\tpmodul7_kelompok_06.csproj.CopyComplete
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\obj\Debug\tpmodul7_kelompok_06.exe
+D:\Praktek Smstr 4\KPL\tpmodul7_kelompok_06\tpmodul7_kelompok_06\obj\Debug\tpmodul7_kelompok_06.pdb
