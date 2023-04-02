@@ -1,15 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace tpmodul7_kelompok_06
+﻿// See https://aka.ms/new-console-template for more information
+using tpmodul7_kelompok_06;
+public class Program
 {
-    class Program
+    public static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
+        DataMahasiswa1302213120.ReadJSON();
+
+        tpmodul7_kelompok_2.KuliahMahasiswa1302213120.ReadJSON();
     }
 }
